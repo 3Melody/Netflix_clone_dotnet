@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Netflix_clone_dotnet.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1bvFTEK1hb9sPG5F+4EQiUcHRo4XQuYJUe02+MdvqRM=",
+  "Source": "Netflix_clone_dotnet",
+  "BasePath": "_content/Netflix_clone_dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
