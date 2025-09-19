@@ -78,3 +78,4 @@ C:\Netflix_clone_dotnet\obj\Debug\net8.0\Netflix_clone_dotnet.genruntimeconfig.c
 C:\Netflix_clone_dotnet\obj\Debug\net8.0\ref\Netflix_clone_dotnet.dll
 C:\Netflix_clone_dotnet\bin\Debug\net8.0\MySqlConnector.dll
 C:\Netflix_clone_dotnet\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Netflix_clone_dotnet\obj\Debug\net8.0\Netflix_clone_dotnet.sourcelink.json

@@ -1,14 +1,12 @@
 
 namespace Netflix_clone_dotnet.Controllers
 {
-    
-
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MySqlConnector;
 using Netflix_clone_dotnet.Repositories;
 
-    [Authorize] // ต้อง login
+[Authorize] // ต้อง login
 [ApiController]
 [Route("favorites")]
 public class FavoritesController : ControllerBase
